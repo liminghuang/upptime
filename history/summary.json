@@ -4,18 +4,20 @@
     "url": "http://oaione.tw/~siw",
     "icon": "https://favicons.githubusercontent.com/oaione.tw",
     "slug": "siw",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 530,
-    "timeDay": 574,
-    "timeWeek": 502,
-    "timeMonth": 528,
-    "timeYear": 530,
-    "dailyMinutesDown": {}
+    "time": 524,
+    "timeDay": 402,
+    "timeWeek": 468,
+    "timeMonth": 519,
+    "timeYear": 524,
+    "dailyMinutesDown": {
+      "2022-06-29": 0
+    }
   },
   {
     "name": "Google",
