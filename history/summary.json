@@ -4,19 +4,19 @@
     "url": "http://oaione.tw/~siw",
     "icon": "https://favicons.githubusercontent.com/oaione.tw",
     "slug": "siw",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 524,
-    "timeDay": 454,
-    "timeWeek": 475,
-    "timeMonth": 518,
-    "timeYear": 524,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.30%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 528,
+    "timeDay": 519,
+    "timeWeek": 503,
+    "timeMonth": 526,
+    "timeYear": 528,
     "dailyMinutesDown": {
-      "2022-06-29": 0
+      "2022-06-29": 10
     }
   },
   {
