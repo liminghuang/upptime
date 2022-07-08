@@ -5,11 +5,11 @@
     "icon": "https://favicons.githubusercontent.com/oaione.tw",
     "slug": "siw",
     "status": "up",
-    "uptime": "99.81%",
+    "uptime": "99.82%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.84%",
     "uptimeMonth": "99.63%",
-    "uptimeYear": "99.81%",
+    "uptimeYear": "99.82%",
     "time": 503,
     "timeDay": 644,
     "timeWeek": 464,
@@ -64,7 +64,7 @@
     "url": "https://news.ycombinator.com",
     "icon": "https://favicons.githubusercontent.com/news.ycombinator.com",
     "slug": "hacker-news",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -75,7 +75,9 @@
     "timeWeek": 277,
     "timeMonth": 226,
     "timeYear": 245,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-07-08": 0
+    }
   },
   {
     "name": "Test Broken Site",
