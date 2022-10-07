@@ -4,7 +4,7 @@
     "url": "http://oaione.tw/~siw",
     "icon": "https://icons.duckduckgo.com/ip3/oaione.tw.ico",
     "slug": "siw",
-    "status": "up",
+    "status": "down",
     "uptime": "99.72%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 615,
     "timeYear": 561,
     "dailyMinutesDown": {
+      "2022-10-07": 0,
       "2022-09-27": 166,
       "2022-09-26": 278,
       "2022-07-01": 17,
