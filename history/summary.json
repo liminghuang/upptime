@@ -16,7 +16,7 @@
     "timeMonth": 8871,
     "timeYear": 1274,
     "dailyMinutesDown": {
-      "2024-05-01": 889,
+      "2024-05-01": 922,
       "2024-04-30": 1440,
       "2024-04-29": 1440,
       "2024-04-28": 1440,
@@ -388,19 +388,19 @@
     "url": "https://www.google.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
     "slug": "google",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeDay": "97.71%",
+    "uptimeWeek": "99.67%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.99%",
     "time": 107,
-    "timeDay": 105,
-    "timeWeek": 174,
+    "timeDay": 117,
+    "timeWeek": 171,
     "timeMonth": 140,
     "timeYear": 108,
     "dailyMinutesDown": {
-      "2024-05-01": 0
+      "2024-05-01": 33
     }
   },
   {
