@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/oaione.tw.ico",
     "slug": "siw",
     "status": "down",
-    "uptime": "33.56%",
+    "uptime": "33.55%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 3596,
     "dailyMinutesDown": {
-      "2024-09-09": 1168,
+      "2024-09-10": 18,
+      "2024-09-09": 1440,
       "2024-09-08": 1440,
       "2024-09-07": 1440,
       "2024-09-06": 1440,
@@ -379,8 +380,7 @@
       "2023-09-15": 1440,
       "2023-09-14": 1440,
       "2023-09-13": 1440,
-      "2023-09-12": 1440,
-      "2023-09-11": 1440
+      "2023-09-12": 1440
     }
   },
   {
@@ -395,10 +395,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 108,
-    "timeDay": 66,
-    "timeWeek": 89,
-    "timeMonth": 101,
-    "timeYear": 106,
+    "timeDay": 188,
+    "timeWeek": 105,
+    "timeMonth": 105,
+    "timeYear": 107,
     "dailyMinutesDown": {
       "2024-05-01": 33
     }
@@ -415,8 +415,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 208,
-    "timeDay": 346,
-    "timeWeek": 185,
+    "timeDay": 197,
+    "timeWeek": 207,
     "timeMonth": 215,
     "timeYear": 214,
     "dailyMinutesDown": {}
@@ -428,17 +428,16 @@
     "slug": "hacker-news",
     "status": "up",
     "uptime": "99.94%",
-    "uptimeDay": "99.53%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
-    "time": 365,
-    "timeDay": 332,
-    "timeWeek": 287,
-    "timeMonth": 315,
+    "time": 364,
+    "timeDay": 272,
+    "timeWeek": 302,
+    "timeMonth": 321,
     "timeYear": 388,
     "dailyMinutesDown": {
-      "2024-09-09": 7,
       "2024-04-26": 17,
       "2024-01-10": 85,
       "2023-12-15": 22,
