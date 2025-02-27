@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/oaione.tw.ico",
     "slug": "siw",
     "status": "down",
-    "uptime": "28.01%",
+    "uptime": "27.98%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 4770,
     "dailyMinutesDown": {
-      "2025-02-26": 20,
+      "2025-02-27": 20,
+      "2025-02-26": 1440,
       "2025-02-25": 1440,
       "2025-02-24": 1440,
       "2025-02-23": 1440,
@@ -379,8 +380,7 @@
       "2024-03-03": 1440,
       "2024-03-02": 1440,
       "2024-03-01": 1440,
-      "2024-02-29": 1440,
-      "2024-02-28": 1440
+      "2024-02-29": 1440
     }
   },
   {
@@ -394,8 +394,8 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 105,
-    "timeDay": 128,
+    "time": 104,
+    "timeDay": 94,
     "timeWeek": 102,
     "timeMonth": 100,
     "timeYear": 106,
@@ -414,11 +414,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 213,
-    "timeDay": 116,
-    "timeWeek": 127,
-    "timeMonth": 133,
-    "timeYear": 213,
+    "time": 214,
+    "timeDay": 267,
+    "timeWeek": 156,
+    "timeMonth": 140,
+    "timeYear": 214,
     "dailyMinutesDown": {}
   },
   {
@@ -432,9 +432,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 394,
-    "timeDay": 117,
-    "timeWeek": 311,
+    "time": 386,
+    "timeDay": 457,
+    "timeWeek": 322,
     "timeMonth": 344,
     "timeYear": 334,
     "dailyMinutesDown": {
