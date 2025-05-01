@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/oaione.tw.ico",
     "slug": "siw",
     "status": "down",
-    "uptime": "26.39%",
+    "uptime": "26.36%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
+    "uptimeMonth": "1.38%",
     "uptimeYear": "0.01%",
     "time": 2397,
     "timeDay": 0,
-    "timeWeek": 332,
-    "timeMonth": 346,
+    "timeWeek": 327,
+    "timeMonth": 338,
     "timeYear": 2682,
     "dailyMinutesDown": {
-      "2025-04-30": 22,
+      "2025-05-01": 25,
+      "2025-04-30": 1440,
       "2025-04-29": 1440,
       "2025-04-28": 1440,
       "2025-04-27": 1440,
@@ -379,8 +380,7 @@
       "2024-05-05": 1440,
       "2024-05-04": 1440,
       "2024-05-03": 1440,
-      "2024-05-02": 1440,
-      "2024-05-01": 1440
+      "2024-05-02": 1440
     }
   },
   {
@@ -395,13 +395,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 108,
-    "timeDay": 311,
+    "timeDay": 80,
     "timeWeek": 197,
-    "timeMonth": 130,
+    "timeMonth": 127,
     "timeYear": 110,
-    "dailyMinutesDown": {
-      "2024-05-01": 33
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Wikipedia",
@@ -414,10 +412,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 203,
-    "timeDay": 179,
-    "timeWeek": 163,
-    "timeMonth": 155,
+    "time": 202,
+    "timeDay": 68,
+    "timeWeek": 161,
+    "timeMonth": 153,
     "timeYear": 203,
     "dailyMinutesDown": {}
   },
@@ -432,10 +430,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 329,
-    "timeDay": 275,
-    "timeWeek": 302,
-    "timeMonth": 312,
+    "time": 330,
+    "timeDay": 377,
+    "timeWeek": 291,
+    "timeMonth": 310,
     "timeYear": 339,
     "dailyMinutesDown": {}
   },
