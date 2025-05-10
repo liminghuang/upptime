@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/oaione.tw.ico",
     "slug": "siw",
     "status": "down",
-    "uptime": "26.16%",
+    "uptime": "26.15%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -16,7 +16,8 @@
     "timeMonth": 338,
     "timeYear": 2682,
     "dailyMinutesDown": {
-      "2025-05-09": 621,
+      "2025-05-10": 21,
+      "2025-05-09": 1440,
       "2025-05-08": 1440,
       "2025-05-07": 1440,
       "2025-05-06": 1440,
@@ -379,8 +380,7 @@
       "2024-05-14": 1440,
       "2024-05-13": 1440,
       "2024-05-12": 1440,
-      "2024-05-11": 1440,
-      "2024-05-10": 1440
+      "2024-05-11": 1440
     }
   },
   {
@@ -395,10 +395,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 109,
-    "timeDay": 198,
-    "timeWeek": 128,
-    "timeMonth": 133,
-    "timeYear": 111,
+    "timeDay": 85,
+    "timeWeek": 129,
+    "timeMonth": 132,
+    "timeYear": 110,
     "dailyMinutesDown": {}
   },
   {
@@ -413,10 +413,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 210,
-    "timeDay": 725,
+    "timeDay": 44,
     "timeWeek": 723,
-    "timeMonth": 283,
-    "timeYear": 211,
+    "timeMonth": 277,
+    "timeYear": 210,
     "dailyMinutesDown": {}
   },
   {
@@ -426,18 +426,16 @@
     "slug": "hacker-news",
     "status": "up",
     "uptime": "99.95%",
-    "uptimeDay": "99.21%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 330,
-    "timeDay": 334,
-    "timeWeek": 284,
+    "time": 329,
+    "timeDay": 201,
+    "timeWeek": 244,
     "timeMonth": 312,
-    "timeYear": 337,
-    "dailyMinutesDown": {
-      "2025-05-09": 11
-    }
+    "timeYear": 336,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Test Broken Site",
