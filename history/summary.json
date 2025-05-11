@@ -16,7 +16,8 @@
     "timeMonth": 338,
     "timeYear": 2682,
     "dailyMinutesDown": {
-      "2025-05-10": 1437,
+      "2025-05-11": 21,
+      "2025-05-10": 1440,
       "2025-05-09": 1440,
       "2025-05-08": 1440,
       "2025-05-07": 1440,
@@ -379,8 +380,7 @@
       "2024-05-15": 1440,
       "2024-05-14": 1440,
       "2024-05-13": 1440,
-      "2024-05-12": 1440,
-      "2024-05-11": 1440
+      "2024-05-12": 1440
     }
   },
   {
@@ -424,19 +424,20 @@
     "url": "https://news.ycombinator.com",
     "icon": "https://icons.duckduckgo.com/ip3/news.ycombinator.com.ico",
     "slug": "hacker-news",
-    "status": "down",
+    "status": "up",
     "uptime": "99.95%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.35%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 329,
-    "timeDay": 203,
-    "timeWeek": 246,
-    "timeMonth": 301,
+    "timeDay": 271,
+    "timeWeek": 262,
+    "timeMonth": 305,
     "timeYear": 335,
     "dailyMinutesDown": {
-      "2025-05-10": 0
+      "2025-05-11": 21,
+      "2025-05-10": 3
     }
   },
   {
