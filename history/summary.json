@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/oaione.tw.ico",
     "slug": "siw",
     "status": "down",
-    "uptime": "23.59%",
+    "uptime": "23.57%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 14539,
-    "timeDay": 20003,
-    "timeWeek": 19753,
-    "timeMonth": 15405,
-    "timeYear": 15118,
+    "time": 14573,
+    "timeDay": 19529,
+    "timeWeek": 19738,
+    "timeMonth": 15398,
+    "timeYear": 15151,
     "dailyMinutesDown": {
-      "2025-09-06": 20,
+      "2025-09-07": 23,
+      "2025-09-06": 1440,
       "2025-09-05": 1440,
       "2025-09-04": 1440,
       "2025-09-03": 1440,
@@ -379,8 +380,7 @@
       "2024-09-11": 1440,
       "2024-09-10": 1440,
       "2024-09-09": 1440,
-      "2024-09-08": 1440,
-      "2024-09-07": 1440
+      "2024-09-08": 1440
     }
   },
   {
@@ -395,10 +395,10 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 109,
-    "timeDay": 83,
-    "timeWeek": 100,
+    "timeDay": 94,
+    "timeWeek": 102,
     "timeMonth": 98,
-    "timeYear": 111,
+    "timeYear": 110,
     "dailyMinutesDown": {
       "2025-08-21": 16
     }
@@ -415,10 +415,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 204,
-    "timeDay": 84,
-    "timeWeek": 120,
-    "timeMonth": 175,
-    "timeYear": 203,
+    "timeDay": 46,
+    "timeWeek": 97,
+    "timeMonth": 169,
+    "timeYear": 202,
     "dailyMinutesDown": {}
   },
   {
@@ -433,10 +433,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 332,
-    "timeDay": 472,
-    "timeWeek": 377,
-    "timeMonth": 361,
-    "timeYear": 335,
+    "timeDay": 94,
+    "timeWeek": 323,
+    "timeMonth": 352,
+    "timeYear": 334,
     "dailyMinutesDown": {
       "2025-06-28": 20,
       "2025-05-11": 21,
