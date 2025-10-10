@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/oaione.tw.ico",
     "slug": "siw",
     "status": "down",
-    "uptime": "22.95%",
+    "uptime": "22.94%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -16,7 +16,7 @@
     "timeMonth": 17121,
     "timeYear": 15767,
     "dailyMinutesDown": {
-      "2025-10-10": 22,
+      "2025-10-10": 534,
       "2025-10-09": 1440,
       "2025-10-08": 1440,
       "2025-10-07": 1440,
@@ -426,9 +426,9 @@
     "url": "https://news.ycombinator.com",
     "icon": "https://icons.duckduckgo.com/ip3/news.ycombinator.com.ico",
     "slug": "hacker-news",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -438,6 +438,7 @@
     "timeMonth": 296,
     "timeYear": 323,
     "dailyMinutesDown": {
+      "2025-10-10": 0,
       "2025-06-28": 20,
       "2025-05-11": 21,
       "2025-05-10": 3
