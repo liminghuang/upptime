@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/oaione.tw.ico",
     "slug": "siw",
     "status": "down",
-    "uptime": "21.83%",
+    "uptime": "21.82%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -16,7 +16,7 @@
     "timeMonth": 19026,
     "timeYear": 16524,
     "dailyMinutesDown": {
-      "2025-12-13": 23,
+      "2025-12-13": 1042,
       "2025-12-12": 1440,
       "2025-12-11": 1440,
       "2025-12-10": 1440,
@@ -390,7 +390,7 @@
     "slug": "google",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.99%",
@@ -400,6 +400,7 @@
     "timeMonth": 133,
     "timeYear": 124,
     "dailyMinutesDown": {
+      "2025-12-13": 0,
       "2025-11-28": 35,
       "2025-08-21": 16
     }
