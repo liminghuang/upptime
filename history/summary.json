@@ -10,13 +10,14 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 18291,
-    "timeDay": 19766,
-    "timeWeek": 19542,
-    "timeMonth": 19571,
-    "timeYear": 18479,
+    "time": 18294,
+    "timeDay": 19502,
+    "timeWeek": 19535,
+    "timeMonth": 19568,
+    "timeYear": 18532,
     "dailyMinutesDown": {
-      "2026-08-09": 1211,
+      "2026-08-10": 22,
+      "2026-08-09": 1440,
       "2026-08-08": 1440,
       "2026-08-07": 1440,
       "2026-08-06": 1440,
@@ -379,8 +380,7 @@
       "2025-08-14": 1440,
       "2025-08-13": 1440,
       "2025-08-12": 1440,
-      "2025-08-11": 1440,
-      "2025-08-10": 1440
+      "2025-08-11": 1440
     }
   },
   {
@@ -390,15 +390,15 @@
     "slug": "google",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "96.85%",
-    "uptimeWeek": "99.55%",
-    "uptimeMonth": "99.90%",
+    "uptimeDay": "97.69%",
+    "uptimeWeek": "99.67%",
+    "uptimeMonth": "99.92%",
     "uptimeYear": "99.94%",
-    "time": 155,
-    "timeDay": 166,
-    "timeWeek": 116,
-    "timeMonth": 89,
-    "timeYear": 173,
+    "time": 158,
+    "timeDay": 591,
+    "timeWeek": 310,
+    "timeMonth": 152,
+    "timeYear": 178,
     "dailyMinutesDown": {
       "2025-08-21": 16,
       "2025-11-28": 35,
@@ -406,7 +406,7 @@
       "2026-04-12": 52,
       "2026-05-30": 33,
       "2026-07-05": 88,
-      "2026-08-09": 45
+      "2026-08-09": 33
     }
   },
   {
@@ -421,9 +421,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 197,
-    "timeDay": 287,
-    "timeWeek": 152,
-    "timeMonth": 175,
+    "timeDay": 41,
+    "timeWeek": 111,
+    "timeMonth": 166,
     "timeYear": 193,
     "dailyMinutesDown": {}
   },
@@ -439,10 +439,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 309,
-    "timeDay": 230,
-    "timeWeek": 202,
-    "timeMonth": 205,
-    "timeYear": 310,
+    "timeDay": 81,
+    "timeWeek": 188,
+    "timeMonth": 197,
+    "timeYear": 309,
     "dailyMinutesDown": {
       "2026-02-27": 16
     }
