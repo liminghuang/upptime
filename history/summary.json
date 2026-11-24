@@ -10,13 +10,14 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 18642,
-    "timeDay": 19796,
-    "timeWeek": 19756,
-    "timeMonth": 19701,
+    "time": 18643,
+    "timeDay": 19811,
+    "timeWeek": 19772,
+    "timeMonth": 19705,
     "timeYear": 19153,
     "dailyMinutesDown": {
-      "2026-11-23": 833,
+      "2026-11-24": 19,
+      "2026-11-23": 1440,
       "2026-11-22": 1440,
       "2026-11-21": 1440,
       "2026-11-20": 1440,
@@ -379,8 +380,7 @@
       "2025-11-28": 1440,
       "2025-11-27": 1440,
       "2025-11-26": 1440,
-      "2025-11-25": 1440,
-      "2025-11-24": 1440
+      "2025-11-25": 1440
     }
   },
   {
@@ -389,15 +389,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
     "slug": "google",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.55%",
-    "uptimeWeek": "99.62%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.91%",
+    "uptime": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.69%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.92%",
     "time": 168,
-    "timeDay": 219,
+    "timeDay": 203,
     "timeWeek": 234,
-    "timeMonth": 188,
+    "timeMonth": 187,
     "timeYear": 179,
     "dailyMinutesDown": {
       "2025-11-28": 35,
@@ -409,8 +409,7 @@
       "2026-08-12": 16,
       "2026-09-03": 117,
       "2026-11-18": 16,
-      "2026-11-19": 15,
-      "2026-11-23": 6
+      "2026-11-19": 15
     }
   },
   {
@@ -425,8 +424,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 197,
-    "timeDay": 235,
-    "timeWeek": 180,
+    "timeDay": 215,
+    "timeWeek": 205,
     "timeMonth": 206,
     "timeYear": 193,
     "dailyMinutesDown": {}
@@ -443,10 +442,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 401,
-    "timeDay": 306,
-    "timeWeek": 190,
-    "timeMonth": 222,
-    "timeYear": 430,
+    "timeDay": 81,
+    "timeWeek": 183,
+    "timeMonth": 215,
+    "timeYear": 429,
     "dailyMinutesDown": {
       "2026-02-27": 16,
       "2026-08-26": 15
